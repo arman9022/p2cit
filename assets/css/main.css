@@ -3175,19 +3175,3 @@ section {
   background: var(--color-primary);
   text-decoration: none;
 }
-
-
-/* ARMAN */
-.six-d-card{
-  padding: 2rem;
-  border: 2px solid var(--color-primary);
-  border-radius: .5rem;
-  font-weight: bold;
-}
-.six-d-card:hover{
-  background: var(--color-primary);
-  cursor: pointer;
-}
-.content ol li{
-  padding: .5rem;
-}
