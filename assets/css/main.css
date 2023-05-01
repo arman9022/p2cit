@@ -1308,7 +1308,8 @@ section {
 
 .onfocus .video-play {
   min-height: 400px;
-  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../img/onfocus-video-bg.jpg") center center;
+  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../img/services-5.jpg") center center;
+  /* background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../img/onfocus-video-bg.jpg") center center; */
   background-size: cover;
 }
 
@@ -3173,4 +3174,20 @@ section {
 .footer .footer-legal .social-links a:hover {
   background: var(--color-primary);
   text-decoration: none;
+}
+
+
+/* ARMAN */
+.six-d-card{
+  padding: 2rem;
+  border: 2px solid var(--color-primary);
+  border-radius: .5rem;
+  font-weight: bold;
+}
+.six-d-card:hover{
+  background: var(--color-primary);
+  cursor: pointer;
+}
+.content ol li{
+  padding: .5rem;
 }
